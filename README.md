@@ -29,3 +29,7 @@ https://127.0.0.1:8000
 documentation : https://symfony.com/doc/current/bundles/MakerBundle/index.html
 
 composer require --dev symfony/maker-bundle
+
+symfony console make:
+ou
+
